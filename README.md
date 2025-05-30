@@ -33,7 +33,20 @@ This end-to-end project investigates the trends and impacts of COVID-19 across U
 ##  Project Structure
 See folders for notebooks, data, reports, and results
 
-##  Preview
-> ![Screenshot](dashboard_screenshot.png)
+## Dashboard Preview (Stage V)
+
+The following images showcase our interactive dashboard comparing actual and predicted COVID-19 cases and deaths across different U.S. states.
+
+<p float="left">
+  <img src="Dashboard%20Images/stage_v_cases_graph.png" width="48%" />
+  <img src="Dashboard%20Images/stage_v_deaths_graph.png" width="48%" />
+</p>
+
+<p float="left">
+  <img src="Dashboard%20Images/stage_v_cases_example_graph.png" width="48%" />
+  <img src="Dashboard%20Images/stage_v_deaths_example_graph.png" width="48%" />
+</p>
+
+ All dashboard visuals are located in the **`Dashboard Images/`** folder.
 
 
