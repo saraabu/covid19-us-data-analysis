@@ -11,17 +11,19 @@ This end-to-end project investigates the trends and impacts of COVID-19 across U
 - Forecast county-level COVID trends using polynomial models
 - Build an interactive dashboard (final stage)
 
-##  Datasets Used
-- COVID-19 Cases & Deaths: [USAFacts](https://usafacts.org)
-- U.S. 2020 Presidential Election: [Kaggle Dataset](https://www.kaggle.com/unanimad/us-election-2020)
-- U.S. Census ACS Data: [data.census.gov](https://data.census.gov/)
-- Employment Data: [BLS CEW](https://data.bls.gov)
+##  Data Sources
 
-##  Technologies
-- Python (Pandas, NumPy, Matplotlib, Plotly)
-- Jupyter Notebook
-- Scikit-learn
-- Dash for dashboard building
+- [COVID-19 Case & Death Data (USAFacts)](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
+- [2020 U.S. Presidential Election Dataset (Kaggle)](https://www.kaggle.com/datasets/unanimad/us-election-2020)
+- [Census Demographic & Housing Data (ACS)](https://data.census.gov/table/ACSDP1Y2018.DP05?q=dp)
+- [COVID-19 Case Trends Worldwide (Our World in Data)](https://ourworldindata.org/covid-cases)
+
+##  Technologies Used
+- Jupyter Notebook (Python 3)
+- pandas, NumPy, matplotlib, plotly
+- Dash (for interactive dashboard)
+- Scikit-learn (regression modeling)
+
 
 ##  My Contributions (Sara Abukhalaf)
 - Led Stage 1 & 3 with a focus on New York
