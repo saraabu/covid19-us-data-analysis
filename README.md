@@ -36,13 +36,4 @@ See folders for notebooks, data, reports, and results
 ##  Preview
 > ![Screenshot](dashboard_screenshot.png)
 
----
 
-###  Final Notes
-You can now add this repo to your **GitHub Profile README**, resume, and SOP.
-
-Would you like me to:
-- Generate the README as a `.md` file?
-- Help you upload and push it live?
-
-Let me know and we’ll finish this together 👩‍💻🌟
